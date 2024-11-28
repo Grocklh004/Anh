@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "saidylking@gmail.com",
-		"password": "2002-togbe4",
+		"email": "",
+		"password": "",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -44,7 +44,7 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "saidylking@gmail.com",
+			"email": "",
 			"clientId": "320237096807-lq1auvdcmrnoqsrt17rl3c923nk5ro5k.apps.googleusercontent.com",
 			"clientSecret": "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",
 			"refreshToken": "1//04jBko6eZWAY2CgYIARAAGAQSNwF-L9Ir3zszUK-MqcLCVvS0fvC77TgRoSJMTlZtbHhiIRprbqvaJYtAjUFFQ0_cRn7AbYcm13c",
